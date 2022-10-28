@@ -70,7 +70,7 @@ Yes, an accuracy of 78% was achieved when we ran our random forest model.
 <br>
 
 <p align=center>
-<img src=Images/d3_1_accuracy.png width=800>
+<img src=Images/D3_1_accuracy.png width=800>
 
 - Changed activation functions to "sigmoid" and binned lower occurrence values and our model came back with a accuracy of 74%.
 
